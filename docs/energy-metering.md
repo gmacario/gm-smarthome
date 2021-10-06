@@ -4,8 +4,9 @@
 
 * [Controllo consumi con Bticino F20T60A](https://www.monkeyofthings.it/viewtopic.php?t=113) - MonkeyOfThings, 2021-02-02
 * [E-Meter P1 Specification](https://electris.lu/files/Dokumente_und_Formulare/Netz_Tech_Dokumente/SPEC_-_E-Meter_P1_specification_20210305.pdf) Versione 1.1.3 by Luxmetering G.I.E, 2021-03-05 (PDF, 22 pages)
+* <https://www.shellyitalia.com/shelly-em/>
 
-## Products
+## Interesting products from amazon.it
 
 | Product | Price | Notes
 |---------|-------|---------
@@ -15,7 +16,5 @@
 | [Shelly (Shelly EM Shelly EM con 2 x 50 A)](https://www.amazon.it/gp/product/B07W5G2NZQ) | 58.93 EUR + IVA | Include 2x pinze amperometriche
 | [shelly Pinza Amperometrica 50 Ampere Em Monitor energia consumi Online](https://www.amazon.it/gp/product/B0847MG1GZ/ref=ox_sc_saved_title_1) | 13.11 EUR + IVA | Accessorio
 | [Living Now Misuratore Din Connesso](https://www.amazon.it/gp/product/B07J1SJ7KS) | 32.25 EUR + IVA | Montaggio su barra DIN, ZigBee
-
-TODO
 
 <!-- EOF -->
