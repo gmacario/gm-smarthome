@@ -1,4 +1,4 @@
-# 2021-10-03 - Installazione serranda soggiorno via Lagnasco,7
+# 2021-10-03 - Installazione serranda soggiorno @gmhome
 
 ## Componenti
 
