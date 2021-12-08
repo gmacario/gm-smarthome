@@ -26,14 +26,82 @@ Click "Device" > "Firmware version"
 > * Firmware build ID: 20210810-140121/0.6.10-g11bf9a3-master
 > * Web build ID: 1.3.0-master+g941e9d9
 >
-> [Check for update](#)
-<!--
+> [Check for update](TODO)
+>
 > * Avaliable version: 0.9.1
 >
 > [Update](TODO)
--->
 
-Click "Networks" > "Cloud"
+
+### Updating firmware
+
+<!-- (2021-12-08 19:30 CET) -->
+
+Click "Update"
+
+...
+
+Browse <http://192.168.64.198/>
+
+> | Switch   | Power | Voltage
+> |----------|-------|---------
+> | switch_0 |   0 W | 232.1 V
+> | switch_1 |   0 W | 232.1 V
+> | switch_2 |   0 W | 232 V
+> | switch_3 |   0 W | 232 V
+>
+> [Device](TODO) | [Networks](TODO) | [Scripts](TODO)
+
+Click "Device"
+
+> Device
+>
+> * Sntp server
+> * Device name
+> * Firmware version
+> * Location
+> * Reboot
+> * Factory reset
+> * Authentication
+> * Debug
+
+Expand "Sntp server"
+
+> Sntp server
+>
+> * time.google.com
+>
+> [Apply](TODO)
+
+Expand "Device name"
+
+> Device name
+>
+> * (empty)
+
+Expand "Firmware version"
+
+> Firmware version
+>
+> * Device ID: 84CCA87FB720
+> * Firmware version: 0.9.1
+> * Firmware build ID: 20211203-125315/0.9.1-ga939435
+> * Web build ID: 1.5.5-34db4f9
+>
+> [Check for update](TODO)
+
+Click "Networks"
+
+> Networks
+>
+> * Wifi
+> * Access point
+> * Ethernet
+> * Cloud
+> * Bluetooth
+> * Mqtt
+
+Expand "Cloud"
 
 > Cloud
 >
