@@ -11,20 +11,24 @@
 
 ## Setting up Shelly Pro 4PM for Torino
 
-### Electrical connections
+### Electrical connections (T)
 
-| Output | Description   |
-|-------:|---------------|
-|     O1 | Prese         |
-|     O2 | TODO: Luce    |
+| Output | Description    |
+|-------:|----------------|
+|     O1 | Prese          |
+|     O2 | TODO: Luce     |
 |     O3 | TODO: Caldaia + Forno + Piano Cottura |
-|     O4 | Lavastoviglie |
-|  S1 | -              |
-|  S2 | -              |
-|  S3 | -              |
-|  S4 | -              |
+|     O4 | Lavastoviglie  |
+|     S1 | -              |
+|     S2 | -              |
+|     S3 | -              |
+|     S4 | -              |
 
-### Device configuration
+TODO: Do not switch "Prese" and "Luce", monitor power using a Shelly 2PM instead
+
+TODO: Keep main router and Wi-Fi alive, do not switch them via Shelly
+
+### Device configuration (T)
 
 ...
 
@@ -52,7 +56,7 @@ TODO: Update firmware
 
 ## Setting up Shelly Pro 4PM for Vernante
 
-### Electrical connections
+### Electrical connections (V)
 
 | I/O | Description    |
 |----:|----------------|
@@ -65,7 +69,7 @@ TODO: Update firmware
 |  S3 | -              |
 |  S4 | -              |
 
-### Device configuration
+### Device configuration (V)
 
 ...
 
