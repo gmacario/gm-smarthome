@@ -9,7 +9,63 @@
 * [SHELLY PRO 4PM - The professional automation solution](https://www.youtube.com/watch?v=Wr63YhMD6zU) - YouTube video by Shelly, 2021-08-19
 * [Shelly Pro product family](https://shelly.cloud/shelly-pro-smart-home-automation-solution/)
 
+## Setting up Shelly Pro 4PM for Torino
+
+### Electrical connections
+
+| Output | Description   |
+|-------:|---------------|
+|     O1 | Prese         |
+|     O2 | TODO: Luce    |
+|     O3 | TODO: Caldaia + Forno + Piano Cottura |
+|     O4 | Lavastoviglie |
+|  S1 | -              |
+|  S2 | -              |
+|  S3 | -              |
+|  S4 | -              |
+
+### Device configuration
+
+...
+
+<!-- (2021-12-08 20:06 CET) -->
+
+Browse <http://192.168.64.137/>
+
+Click "Device" > "Firmware version"
+
+> Firmware version
+>
+> * Device ID: 84CCA87F2248
+> * Firmware version: 0.6.10
+> * Firmware build ID: 20210810-140121/0.6.10-g11bf9a3-master
+> * Web build ID: 1.3.0-master+g941e9d9
+>
+> [Check for update](TODO)
+>
+> * Avaliable version: 0.9.1
+>
+> [Update](TODO)
+
+TODO: Update firmware
+
+
 ## Setting up Shelly Pro 4PM for Vernante
+
+### Electrical connections
+
+| I/O | Description    |
+|----:|----------------|
+|  O1 | Lampadina 100W |
+|  O2 | -              |
+|  O3 | -              |
+|  O4 | -              |
+|  S1 | -              |
+|  S2 | -              |
+|  S3 | -              |
+|  S4 | -              |
+
+### Device configuration
 
 ...
 
@@ -43,12 +99,12 @@ Click "Update"
 
 Browse <http://192.168.64.198/>
 
-> | Switch   | Power | Voltage
-> |----------|-------|---------
-> | switch_0 |   0 W | 232.1 V
-> | switch_1 |   0 W | 232.1 V
-> | switch_2 |   0 W | 232 V
-> | switch_3 |   0 W | 232 V
+> | Switch   | State | Power   |      | Voltage
+> |----------|------:|--------:|-----:|---------:
+> | switch_0 |    ON | 105.9 W | 1 PF | 232.9 V
+> | switch_1 |   off |     0 W |      | 232.8 V
+> | switch_2 |   off |     0 W |      | 232.9 V
+> | switch_3 |    ON |     0 W |      | 233.4 V
 >
 > [Device](TODO) | [Networks](TODO) | [Scripts](TODO)
 
